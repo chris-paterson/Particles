@@ -1,0 +1,11 @@
+body {
+    background: #000;
+}
+
+canvas {
+    border: solid 1px red;
+}
+
+p {
+    color: #FFF;
+}
